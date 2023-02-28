@@ -9,5 +9,5 @@ In more detail, Lab6 asks for the user's name as input and their age as an input
 A second program, TaxRate, takes your income and tax rate as a percentage, and calculates your income after taxes.
 
 # Extending the Program
-Users are permitted to edit and adjust the programs as they see fit, so long as they adhere to the [Code of Conduct](https://github.com/sarahmenendez/Lab6/blob/main/CODE_OF_CONDUCT.md) and [License Agreement](https://github.com/sarahmenendez/Lab6/blob/main/LICENSE.md). To submit changes or improvements to the programs, you can add a pull request [here](https://github.com/sarahmenendez/Lab6/pulls).
+Users are permitted to edit and adjust the programs as they see fit, so long as they adhere to the [Code of Conduct](https://github.com/sarahmenendez/Lab6/blob/main/CODE_OF_CONDUCT.md) and [License Agreement](https://github.com/sarahmenendez/Lab6/blob/main/LICENSE.md). To submit changes or improvements to the programs, you can add a pull request on [github](https://github.com/sarahmenendez/Lab6/pulls).
 
